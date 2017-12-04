@@ -50,6 +50,8 @@ There are a few specials caracters for common directories :
 - `/` is the root directory
 - `~` is your user home directory usualy (`/home/username/`)
 
+
+
 # Git (Version Control System)
 `git` is a version control system, it's use to collaborate and share code files.
 
@@ -73,7 +75,9 @@ tldr git stash
 If you want to go deeper into it checkout this guide
 [learngitbranching.js](https://learngitbranching.js.org/?demo)
 
-# node (Runtime System)
+
+
+# Node (Runtime System)
 
 `node` is used to run your JavaScript files.
 It gives you an api that you can use to do all the things, more details in
@@ -84,7 +88,9 @@ It gives you an api that you can use to do all the things, more details in
 tldr node
 ```
 
-# npm (Package Manager)
+
+
+# NPM (Package Manager)
 
 `npm` is node package manager
 
