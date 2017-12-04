@@ -1,3 +1,6 @@
+[[fr](https://github.com/nan-ci/js-tools/blob/master/README.fr.md)]
+[[en](https://github.com/nan-ci/js-tools/blob/master/README.md)]
+
 # The Terminal
 
 The `terminal` allows you to executes commands and print outs their results as text.
