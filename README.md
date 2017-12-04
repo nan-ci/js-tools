@@ -35,7 +35,7 @@ If you need full details, read the manual using `man` (Manual)
 ```sh
 man cd # print the man page of the command cd
 ```
-(as you can see, a lot more detailed, so that's often `tldr` is enough)
+(as you can see, a lot more detailed, so that's why `tldr` is often enough)
 
 You can make a new directory with `mkdir` (Make Directory)
 ```sh
@@ -77,11 +77,33 @@ If you want to go deeper into it checkout this guide
 
 
 
+# JavaScript (Programming Language)
+`JavaScript` often called (js) it is one of the core technologies of the web.
+At first it was mainly used to make webpages interactive and provide online programs.
+
+It gain popularity as the web kept growing.
+
+Major companies (Google, Microsoft, Apple, Mozilla...) invested a lot
+on making JavaScript fast, as such, it's now additionnaly used for many platforms
+including mobiles (Facebook app), servers (PayPal), desktops (Code by Microsoft)
+and even TV's (Netflix).
+
+It's the first language that we will approach since it's one of the most popular,
+fastest growing and usable in most [scenario](https://www.youtube.com/watch?v=Q6TLWqn82J4).
+
+For further referencews read [the documentation](https://developer.mozilla.org/bm/docs/Web/JavaScript)
+*this will be your new bible*
+
 # Node (Runtime System)
 
 `node` is used to run your JavaScript files.
-It gives you an api that you can use to do all the things, more details in
-[the documentation](https://nodejs.org/api/index.html)
+
+Node is what popularised the use of JavaScript outside of the web by giving it
+an api that you can use to interact with your computer, write files,
+create http servers and much, much more.
+
+Find out in details by reading [the documentation](https://nodejs.org/api/index.html)
+*this will be your other bible*
 
 
 ```
